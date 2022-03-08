@@ -1,0 +1,15 @@
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/bin/Debug/net6.0/estudos_C#
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/bin/Debug/net6.0/estudos_C#.deps.json
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/bin/Debug/net6.0/estudos_C#.runtimeconfig.json
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/bin/Debug/net6.0/estudos_C#.dll
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/bin/Debug/net6.0/estudos_C#.pdb
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.csproj.AssemblyReference.cache
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.GeneratedMSBuildEditorConfig.editorconfig
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.AssemblyInfoInputs.cache
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.AssemblyInfo.cs
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.csproj.CoreCompileInputs.cache
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.dll
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/refint/estudos_C#.dll
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.pdb
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/estudos_C#.genruntimeconfig.cache
+/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/Debug/net6.0/ref/estudos_C#.dll

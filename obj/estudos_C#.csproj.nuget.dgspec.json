@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/estudos_C#.csproj": {}
+  },
+  "projects": {
+    "/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/estudos_C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/estudos_C#.csproj",
+        "projectName": "estudos_C#",
+        "projectPath": "/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/estudos_C#.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/media/ricardo/HD_Rick1_Sistemas/Programacao_C#/estudos_C#/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
