@@ -2,6 +2,7 @@
 using System;
 using System.Globalization;
 
+/* #############################################
 
 // ### Exercicio ###
 string produto1 = "Computador";
@@ -43,26 +44,44 @@ float b = (float) a;
 
 System.Console.WriteLine(b);
 
+####################################################### */
+
+/* ##################### Entrada de dados 01 ########################################
 System.Console.WriteLine("=============== Entrada de dados =======================");
 
-System.Console.Write("Digite seu nome: ");
-string nome = Console.ReadLine();
-System.Console.WriteLine("--------");
+string frase = Console.ReadLine();
+string x = Console.ReadLine();
+string y = Console.ReadLine();
+string z = Console.ReadLine();
 
-System.Console.Write("Digite seu idade: ");
-string nasc = Console.ReadLine();
-System.Console.WriteLine("--------");
+// string s = Console.ReadLine();
 
-System.Console.Write("Digite seu estado civil: ");
-string sexo = Console.ReadLine();
-System.Console.WriteLine("--------");
+string [] v = Console.ReadLine().Split(' ');
 
-System.Console.WriteLine("Nome: " + nome);
-System.Console.WriteLine("Idade: " + nasc);
-System.Console.WriteLine("Sexo: " + sexo);
-System.Console.WriteLine("--------");
+string a = v[0];
+string b = v[1];
+string c = v[2];
 
-System.Console.Write("Deseja salvar seus dados? S/N? ");
-string salvar = Console.ReadLine();
+System.Console.WriteLine("Você digitou: ");
+System.Console.WriteLine(frase);
+System.Console.WriteLine(x);
+System.Console.WriteLine(y);
+System.Console.WriteLine(z);
+System.Console.WriteLine(a);
+System.Console.WriteLine(b);
+System.Console.WriteLine(c);
 
-System.Console.WriteLine("Dados salvos com sucesso!");
+############################ Fim entrada de dados 01 ################################## */
+
+/* ######################### Entadada de dados 02 - Conversões de saída de dados ##################################### */
+int n1 = int.Parse(Console.ReadLine());
+char ch = char.Parse(Console.ReadLine());
+// ########### Regra para usar a virgula no numero flutuante ##########################
+double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+System.Console.WriteLine("Você Digitou: ");
+System.Console.WriteLine(n1);
+System.Console.WriteLine(ch);
+
+// ########### Saída de dados com ponto do numero flutuante ##########################
+System.Console.WriteLine(n2.ToString("F2", CultureInfo.InvariantCulture));
